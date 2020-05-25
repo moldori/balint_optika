@@ -1,0 +1,51 @@
+
+.container-fluid {
+  padding: 0;
+}
+
+.body {
+  font-family: Montserrat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 1.2% 16%;
+  background-color: #840404;
+  color: #ffe3b7;
+}
+
+.navbar-brand {
+  width: 180px;
+}
+
+.nav-item {
+  color: #ffe3b7;
+  padding: 0 0.8rem;
+}
+
+.carousel-img {
+  width: 100%;
+}
+
+.carousel-textbox {
+  background-color: #ffe3b7;
+  padding: 2%;
+  position: absolute;
+  top: 30%;
+  left: 15%;
+  width: 42%;
+  height: 40%;
+  text-align: center;
+  color: #ffaf00;
+  font-weight: 200;
+}
+
+.carousel-text {
+  padding: 6% 3%;
+  font-weight: 800;
+}
